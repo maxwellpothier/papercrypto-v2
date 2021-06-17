@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  height: 100px;
+  margin: auto;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+.container:hover {
+  background-color: aliceblue;
+  cursor: pointer;
+}
+
+img {
+  width: 50px;
+  cursor: pointer;
+}
+
+.icon {
+  margin: auto;
+}
+
+.name {
+  margin: auto;
+}
+
+.price {
+  margin: auto;
+}
+
+.cap {
+  margin: auto;
+}
